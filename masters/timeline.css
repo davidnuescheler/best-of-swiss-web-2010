@@ -1,0 +1,1 @@
+html {	overflow: hidden;}body {	background: #000 url(bg-slide.png) no-repeat;	font-family: Helvetica;	font-size: 90px;	font-weight: 800;	color: #000;	letter-spacing:-2px;	margin: 0px;	padding: 0px;}.image {	height: 768px;	width: 1024px;	text-align: center;	vertical-align: middle;	display: table-cell;	letter-spacing:-5px;}
