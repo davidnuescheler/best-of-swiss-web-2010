@@ -11,3 +11,5 @@ me that I should definitely not use a presentation tool like Powerpoint or Keyno
 of his engagement for standards and openness, I created the presentation in HTML, or XHTML to be more precise.
 
 I found this deck on my drive recently, and thought that it is something that could be put on github for historical purposes.
+
+https://davidnuescheler.github.io/best-of-swiss-web-2010/presentation.xhtml
